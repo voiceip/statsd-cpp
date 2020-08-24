@@ -1,4 +1,4 @@
-StatsD client cpp [![Build Status](https://travis-ci.org/euskadi31/statsd-cpp.png)](https://travis-ci.org/euskadi31/statsd-cpp)
+StatsD client cpp [![Build Status](https://travis-ci.com/voiceip/statsd-cpp.svg?branch=master)](https://travis-ci.com/voiceip/statsd-cpp)
 =================
 
 A cpp client for the StatsD server.
